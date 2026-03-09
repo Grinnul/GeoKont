@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GeoKont
+Exec=/geokont/GeoKont.x86_64
+Icon=/geokont/icon.png
+Type=Application
+Categories=Game;
