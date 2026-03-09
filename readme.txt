@@ -1,1 +1,1 @@
-Flatpak version of GeoKont
+GeoKont
